@@ -1,0 +1,9 @@
+{
+	"name": "HealthCostLabsCamp1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f9dbf997-dd45-4605-8813-d51e98bb7443",
+		"tenantId": "bafe57a0-4696-4a96-ab68-ab9b24a2ed81"
+	}
+}
